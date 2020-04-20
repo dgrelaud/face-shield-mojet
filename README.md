@@ -16,6 +16,7 @@ Visière de protection, rapide à imprimer & monter
 - 👍 Une seule pièce (pas de clip)
 - 💆 Face plastique avant (front) très souple pour améliorer le confort
 
+
 # Évolution à venir : 
 
 - Boucle pour élastique intégrée
@@ -63,6 +64,10 @@ Avec ces paramètres sur PrusaSlicer : Buse 0.4, 0% de remplissage, 2 périmètr
 
 
 # Images
+
+Vidéo démo démontage / montage :
+
+[![Watch the video](https://img.youtube.com/vi/Tu5RRXyYcv0/maxresdefault.jpg)](https://youtu.be/Tu5RRXyYcv0)
 
 
 Exemples d'impression 
