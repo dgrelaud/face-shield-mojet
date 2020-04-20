@@ -61,6 +61,7 @@ Avec ces paramètres sur PrusaSlicer : Buse 0.4, 0% de remplissage, 2 périmètr
 | Solidité fixation                  | A                 | A                | B                    | B     | B                 | A        |
 | Rigidité visière 200um             | ?                 | ?                | A                    | ?     | ?                 | B        |
 | Simplicité d'impression 3D         | A                 | A                | C                    | A     | ?                 | ?        |
+| Ecartement visière / tête          | A                 | A                | A                    | B     | A                 | A        |
 
 
 # Images
