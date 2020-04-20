@@ -8,7 +8,7 @@ Visière de protection, rapide à imprimer & monter
 
 # Caractéristiques du support de visière 
 
-- 🍕 **Simple à imprimer** : 0 % de remplissage
+- 🍕 **Simple à imprimer** ???? : 0 % de remplissage
 - 🚀 Rapide à assembler : **seulement 2 trous de perforeuse standard** dans la feuille A4 transparente
 - 🍟 Extrêmement compact : **15 pièces par impression** sur plateau 22 x 20 cm **sans empiler**
 - 💎 **Très robuste** grâce à un système de pince et de crochet
