@@ -14,6 +14,7 @@ Visière de protection, rapide à imprimer & monter
 - 💎 **Très robuste** grâce à un système de pince et de crochet
 - ⚡️ Rapide à démonter / monter pour nettoyage
 - 👍 Une seule pièce (pas de clip)
+- 💆 Face plastique avant (front) très souple pour améliorer le confort
 
 # Évolution à venir : 
 
